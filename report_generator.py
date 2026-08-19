@@ -281,9 +281,6 @@ def generate_compliance_html():
         "<code>compliance_map.md</code>（含代码行号锚点与需求原文对照）</p>"
         "<p><strong>🔗 双数据源适配：</strong>"
         "<code>adapters/qingchuan_adapter.py</code> 支持青川数据无缝接入</p>"
-<<<<<<< HEAD
-        "<div class='footer'>T02 Demo · 氢启未来团队 · 2024.08</div>"
-=======
         "<div class='footer'>T02 Demo · 氢启未来团队 · 2026.08</div>"
         "</body></html>"
     )
