@@ -2,4 +2,8 @@ streamlit>=1.30
 pandas>=2.0
 plotly>=5.18
 openpyxl>=3.1
+<<<<<<< HEAD
 requests>=2.31
+=======
+requests>=2.31
+>>>>>>> 34d006f0292888a50a5bbdf11235857f1956d36b
