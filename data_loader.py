@@ -80,8 +80,3 @@ def load_vehicle_csv(path):
     if "Timestamp" in df.columns:
         df["Timestamp"] = pd.to_datetime(df["Timestamp"], errors="coerce")
         df = df.dropna(subset=["Timestamp"]).sort_values("Timestamp").reset_index(drop=True)
-<<<<<<< HEAD
-    return df
-=======
-    return df
->>>>>>> 34d006f0292888a50a5bbdf11235857f1956d36b
