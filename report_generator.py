@@ -285,6 +285,5 @@ def generate_compliance_html():
         "<div class='footer'>T02 Demo · 氢启未来团队 · 2024.08</div>"
 =======
         "<div class='footer'>T02 Demo · 氢启未来团队 · 2026.08</div>"
->>>>>>> 34d006f0292888a50a5bbdf11235857f1956d36b
         "</body></html>"
     )
